@@ -115,4 +115,4 @@ jekaterina.gorelikov;N08
 mabess;N08
 adrozd;N08
 sekorn;N08
-keraja;N08;N16
+keraja;N08
