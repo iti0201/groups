@@ -87,7 +87,7 @@ sesaal;K16
 sinest;K16
 grviir;K16
 roimaj;K16
-japikt;K16
+japikt;E16
 angulo;N08
 ilboit;N08
 haneri;N08
